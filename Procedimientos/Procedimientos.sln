@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AhoraEs", "AhoraEs\AhoraEs.vbproj", "{0A9CEEAC-476B-4A6F-903E-18B38D7A13E1}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "AhoraEs", "AhoraEs\AhoraEs.vbproj", "{0A9CEEAC-476B-4A6F-903E-18B38D7A13E1}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hipotenusa", "Hipotenusa\Hipotenusa.vbproj", "{D8340ECB-8FE5-453E-B087-3A25342AAFE6}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Hipotenusa", "Hipotenusa\Hipotenusa.vbproj", "{D8340ECB-8FE5-453E-B087-3A25342AAFE6}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nueva_Fecha", "Nueva_Fecha\Nueva_Fecha.vbproj", "{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Nueva_Fecha", "Nueva_Fecha\Nueva_Fecha.vbproj", "{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Volumen_Cilindro", "Volumen_Cilindro\Volumen_Cilindro.vbproj", "{E77122EA-F856-4D0B-BB0F-33E18E51F9DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E77122EA-F856-4D0B-BB0F-33E18E51F9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77122EA-F856-4D0B-BB0F-33E18E51F9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77122EA-F856-4D0B-BB0F-33E18E51F9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77122EA-F856-4D0B-BB0F-33E18E51F9DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

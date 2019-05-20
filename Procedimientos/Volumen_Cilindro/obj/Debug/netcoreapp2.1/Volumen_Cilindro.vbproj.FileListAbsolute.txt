@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.deps.json
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.dll
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\bin\Debug\netcoreapp2.1\Volumen_Cilindro.pdb
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.dll
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Volumen_Cilindro\obj\Debug\netcoreapp2.1\Volumen_Cilindro.pdb
