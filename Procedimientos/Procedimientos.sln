@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AhoraEs", "AhoraEs\AhoraEs.
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hipotenusa", "Hipotenusa\Hipotenusa.vbproj", "{D8340ECB-8FE5-453E-B087-3A25342AAFE6}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Nueva_Fecha", "Nueva_Fecha\Nueva_Fecha.vbproj", "{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D8340ECB-8FE5-453E-B087-3A25342AAFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8340ECB-8FE5-453E-B087-3A25342AAFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8340ECB-8FE5-453E-B087-3A25342AAFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
