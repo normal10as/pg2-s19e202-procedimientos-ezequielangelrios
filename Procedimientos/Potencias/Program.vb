@@ -5,7 +5,7 @@ Module Program
         Dim Numero As UInt16
         Console.WriteLine("Ingrese un numero: ")
         Numero = Console.ReadLine()
-        Console.WriteLine("Numero ^2; ^3, ^5 :" & Potencia(Numero))
+        Console.WriteLine("Numero elevado 2°; 3°, 5° :" & Potencia(Numero))
     End Sub
     Function Potencia(num As UInt16) As String
         Dim calculo2, calculo3, calculo5 As Int32
