@@ -1,0 +1,11 @@
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.deps.json
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.json
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.runtimeconfig.dev.json
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\bin\Debug\netcoreapp2.1\Acumuladora.pdb
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbprojAssemblyReference.cache
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.vbproj.CoreCompileInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfoInputs.cache
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.AssemblyInfo.vb
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.dll
+C:\Users\eze_l\source\repos\Programacion2\ProcedimientoGitHub\Procedimientos\Acumuladora\obj\Debug\netcoreapp2.1\Acumuladora.pdb

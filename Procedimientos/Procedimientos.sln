@@ -9,9 +9,11 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Hipotenusa", "Hipotenusa\Hi
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Nueva_Fecha", "Nueva_Fecha\Nueva_Fecha.vbproj", "{36701DAF-8BC7-4032-ADE0-CE3293CB01B6}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Volumen_Cilindro", "Volumen_Cilindro\Volumen_Cilindro.vbproj", "{E77122EA-F856-4D0B-BB0F-33E18E51F9DB}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Volumen_Cilindro", "Volumen_Cilindro\Volumen_Cilindro.vbproj", "{E77122EA-F856-4D0B-BB0F-33E18E51F9DB}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Potencias", "Potencias\Potencias.vbproj", "{D442BA78-014D-42FD-8B79-AD32D6E7C0D0}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Potencias", "Potencias\Potencias.vbproj", "{D442BA78-014D-42FD-8B79-AD32D6E7C0D0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Acumuladora", "Acumuladora\Acumuladora.vbproj", "{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D442BA78-014D-42FD-8B79-AD32D6E7C0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D442BA78-014D-42FD-8B79-AD32D6E7C0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D442BA78-014D-42FD-8B79-AD32D6E7C0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

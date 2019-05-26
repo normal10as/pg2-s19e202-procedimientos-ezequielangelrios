@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Procedimientos",
+    "\\Procedimientos\\Acumuladora"
   ],
+  "SelectedNode": "\\Procedimientos\\Acumuladora\\Program.vb",
   "PreviewInSolutionExplorer": false
 }
