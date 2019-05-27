@@ -6,16 +6,16 @@ Module Program
         Valor1 = 1.5
         Valor2 = 2.5
         Valor3 = 3.5
-        Console.WriteLine("Primer valor :")
+        Console.WriteLine("Primer valor : {0}", Valor1)
         Acumular(Valor1)
-        Console.WriteLine("Segundo valor: ")
+        Console.WriteLine("Segundo valor: {0}", Valor2)
         Acumular(Valor2)
-        Console.WriteLine("Tercer valor: ")
+        Console.WriteLine("Tercer valor: {0}", Valor3)
         Acumular(Valor3)
     End Sub
-    Sub Acumular(ByVal Valor As Single)
+    Private Sub Acumular(ByVal Valor As Single)
         Dim acumular As Single
         acumular = Valor + Valor
-        Console.WriteLine("valor= {0}", acumular)
+        Console.WriteLine("Valor acumulado: {0}", acumular)
     End Sub
 End Module

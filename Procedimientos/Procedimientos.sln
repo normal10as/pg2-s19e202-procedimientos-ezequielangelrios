@@ -13,7 +13,9 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Volumen_Cilindro", "Volumen
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Potencias", "Potencias\Potencias.vbproj", "{D442BA78-014D-42FD-8B79-AD32D6E7C0D0}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Acumuladora", "Acumuladora\Acumuladora.vbproj", "{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Acumuladora", "Acumuladora\Acumuladora.vbproj", "{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sumas", "Sumas\Sumas.vbproj", "{13BD59C1-193D-4C6B-B235-9FA02171CEDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D0FC1B-BEF2-4BA9-90B2-2A04A6EEABCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BD59C1-193D-4C6B-B235-9FA02171CEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BD59C1-193D-4C6B-B235-9FA02171CEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BD59C1-193D-4C6B-B235-9FA02171CEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BD59C1-193D-4C6B-B235-9FA02171CEDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
